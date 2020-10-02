@@ -1,0 +1,13 @@
+By default, macs ship with FreeBSD versions of the GNU tools.
+
+install homebrew
+
+then
+
+brew install coreutils
+brew install grep
+etc. for other gnu tools
+...
+
+PATHing will be an issue to research on net after all this
+
